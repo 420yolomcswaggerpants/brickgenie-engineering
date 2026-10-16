@@ -10,13 +10,13 @@ I built it solo with AI coding agents. My part was the decisions, the rules the 
 |---|---|
 | Stack | One TypeScript app: Next.js and managed PostgreSQL, deployed on Vercel |
 | Content | 241 concepts and 173 levels, kindergarten to grade 8 with pre-K counting beneath, mapped to Common Core |
-| Schema | 59 tables, 49 forward-only migrations |
-| Tests | 1,507 across 157 files, most of them driving real services against Postgres |
+| Schema | 59 tables, 50 forward-only migrations |
+| Tests | 1,713 across 165 files, most of them driving real services against Postgres |
 | Release gate | One command: type checks, lint, tests, content checker, balance simulator |
 | AI | Claude as a tutor, never as a grader |
 | Front end | Lighthouse 99 performance and 100 accessibility on every public page, with nothing loaded from a third party |
 
-*Figures as of October 12, 2026.*
+*Figures as of October 15, 2026.*
 
 ```mermaid
 flowchart LR
