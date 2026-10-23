@@ -14,7 +14,7 @@ I built it solo with AI coding agents. My part was the decisions, the rules the 
 | Tests | 2,069 across 183 files, most of them driving real services against Postgres |
 | Release gate | One command: type checks, lint, tests, content checker, balance simulator |
 | AI | Claude as a tutor, never as a grader |
-| Front end | Lighthouse 99 performance and 100 accessibility on every public page, with nothing loaded from a third party |
+| Front end | Lighthouse 98-99 performance and 100 accessibility on every public page, with nothing loaded from a third party |
 
 *Figures as of October 22, 2026.*
 
